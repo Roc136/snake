@@ -197,7 +197,7 @@
 
    + 进入游戏欢迎界面。
 
-     <img src="D:\WorkSpace\photo\snake.png"  />
+     <img src="img/snake.png"  />
 
    + 隐藏控制台光标，避免高频率清屏导致的闪烁引起不适。
 
@@ -251,13 +251,13 @@
 
 + 打开`snake.exe`后，等待欢迎页面结束后按`Enter`进入开始界面。
 
-<img src="D:\WorkSpace\photo\begin.png" alt="begin"  />
+<img src="img/begin.png" alt="begin"  />
 
 ### 3. 开始游戏
 
 + 在开始界面按 `1` 后输入昵称开始游戏，在游戏中，按`↑` `↓` `←` `→`或`w` `a` `s` `d`进行操作，按`p` 暂停，按`Esc`结束游戏。
 
-<img src="D:\WorkSpace\photo\game.png" alt="game"  />
+<img src="img/game.png" alt="game"  />
 
 <div STYLE="page-break-after: always;"></div>
 
@@ -265,13 +265,13 @@
 
 + 在开始界面按 `2` 调增游戏速度，范围1-10。
 
-<img src="D:\WorkSpace\photo\speed.png" alt="speed"  />
+<img src="img/speed.png" alt="speed"  />
 
 ### 5.修改障碍物数量
 
 + 在开始界面按 `3` 修改障碍物数量，范围0-5, 0即无障碍物。
 
-<img src="D:\WorkSpace\photo\barrier.png" alt="barrier"  />
+<img src="img/barrier.png" alt="barrier"  />
 
 <div STYLE="page-break-after: always;"></div>
 
@@ -279,13 +279,13 @@
 
 + 在开始界面按 `4` 修改围墙设置，按 `y` 改为有围墙，按 `n` 改为无围墙。
 
-<img src="D:\WorkSpace\photo\fence.png" alt="fence"  />
+<img src="img/fence.png" alt="fence"  />
 
 ### 7.查看操作说明
 
 + 在开始界面按 `5` 查看操作说明。
 
-<img src="D:\WorkSpace\photo\help.png" alt="help"  />
+<img src="img/help.png" alt="help"  />
 
 <div STYLE="page-break-after: always;"></div>
 
@@ -293,7 +293,7 @@
 
 + 在开始界面按 `6` 查看排行榜，或每局游戏结束后展示排行榜。
 
-<img src="D:\WorkSpace\photo\leaderbord.png" alt="leader"  />
+<img src="img/leaderbord.png" alt="leader"  />
 
 <div STYLE="page-break-after: always;"></div>
 
